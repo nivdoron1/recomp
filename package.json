@@ -1,0 +1,30 @@
+{
+    "name": "recomp-cli",
+    "version": "1.0.0",
+    "description": "A simple CLI tool to generate React components with TypeScript and CSS Modules.",
+    "main": "bin/recomp.js",
+    "bin": {
+      "recomp": "./bin/recomp.js"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react",
+      "cli",
+      "generator",
+      "typescript",
+      "component"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/your-username/recomp-cli.git"
+    },
+    "bugs": {
+      "url": "https://github.com/your-username/recomp-cli/issues"
+    },
+    "homepage": "https://github.com/your-username/recomp-cli#readme"
+  }
+  
