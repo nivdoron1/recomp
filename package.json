@@ -1,5 +1,5 @@
 {
-    "name": "recomp-cli",
+    "name": "react-component-gen-cli",
     "version": "1.0.0",
     "description": "A simple CLI tool to generate React components with TypeScript and CSS Modules.",
     "main": "bin/recomp.js",
