@@ -241,7 +241,7 @@ function generateHook(kebabName, srcDir = './src/hooks', options) {
   const basePascalName = kebabToPascalCase(baseKebabName); // user-profile -> UserProfile
   
   const hookName = `use${basePascalName}`; // useUserProfile
-  const hookDirName = `${basePascalName}Hook`; // UserProfileHook
+  const hookDirName = `${basePascalName}`; // UserProfileHook
   const hookDir = path.join(srcDir, hookDirName);
 
   if (fs.existsSync(hookDir)) {
