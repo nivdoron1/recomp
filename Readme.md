@@ -1,6 +1,4 @@
-Got it — you’d like me to transform your plain-text documentation into a properly formatted **Markdown README.md** file. Here’s the transformed version:
 
-````markdown
 # Recomp CLI
 
 A simple and fast command-line tool to generate boilerplate for React components, contexts, and hooks using **TypeScript**.
