@@ -1,6 +1,6 @@
 {
     "name": "react-component-gen-cli",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A simple CLI tool to generate React components with TypeScript and CSS Modules.",
     "main": "bin/recomp.js",
     "bin": {
