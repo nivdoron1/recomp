@@ -10,7 +10,7 @@ A simple and fast command-line tool to generate boilerplate for React components
 Install the package globally using **npm**:
 
 ```bash
-npm install -g recomp-cli
+npm i react-component-gen-cli
 ````
 
 ---
